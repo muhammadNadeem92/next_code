@@ -1,0 +1,32 @@
+.body{
+    color: lightgoldenrodyellow;
+}
+.navbar{
+    border-radius: 8px;
+    background-color: rgba(168, 161, 161, 0.63);
+    overflow:auto
+   
+}
+.ul{
+    float: left;
+    list-style: none;
+    margin: 11px 11px;
+   
+
+}
+.link:hover{
+ background:green;
+    color: azure;
+    padding: 10px 10px;
+}
+.heading{
+    text-align: center;
+    color: blueviolet;
+}
+.heading2{
+    text-align: center;
+    color:orange;
+}
+.heading2{
+    color: brown;
+}
